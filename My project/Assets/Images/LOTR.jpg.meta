@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3867a0eaa95d36f4f992c09ee0f87da2
+guid: 1c61bf59e46676345bc596cb33b0ef85
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -769928849047914468
-    second: frodo_0
+      213: 5051533448477376813
+    second: LOTR_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -152,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: frodo_0
+      name: LOTR_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 318
-        height: 159
+        width: 384
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c187c228ac9a055f0800000000000000
-      internalID: -769928849047914468
+      spriteID: d218f7f38e6aa1640800000000000000
+      internalID: 5051533448477376813
       vertices: []
       indices: 
       edges: []
@@ -186,8 +186,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      frodo_0: -769928849047914468
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
